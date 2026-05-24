@@ -106,12 +106,12 @@
 
 | File | Description |
 |---|---|
-| `task1_output1.png` | Task 1 query results — student overview and aggregates |
-| `task1_output2.png` | Task 1 continued — gender comparison, filter, update |
-| `task2_output.png` | Task 2 — joins and enrollment queries |
-| `task3_output.png` | Task 3 — subqueries and conditional aggregations |
-| `task4_output.png` | Task 4 — window function results |
-| `certificate.png` | Internship completion certificate |
+| `task1_output1.jpg` | Task 1 query results — student overview and aggregates |
+| `task1_output2.jpg` | Task 1 continued — gender comparison, filter, update |
+| `task2_output.jpg` | Task 2 — joins and enrollment queries |
+| `task3_output.jpg` | Task 3 — subqueries and conditional aggregations |
+| `task4_output.jpg` | Task 4 — window function results |
+| `certificate.pdf` | Internship completion certificate |
 | `README.md` | Repository overview |
 
 ---
